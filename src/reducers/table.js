@@ -1,6 +1,5 @@
 import data from '../data/db.json';
 import { SET_COUNT } from '../actions/table';
-import { RESET_FILTER } from '../actions/filter';
 
 const initialState = {
   data,
@@ -15,7 +14,6 @@ export const table = (state = initialState, action) => {
         count: action.count,
       };
     
-    case RESET_FILTER:
     default:
       return state;
   }
