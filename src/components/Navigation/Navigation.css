@@ -1,0 +1,13 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.navigation-btn__selected {
+  font-weight: bold;
+}
+
+.navigation-btn {
+  padding: 0.5rem 1rem;
+}

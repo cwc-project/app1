@@ -1,0 +1,218 @@
+[
+  {
+    "artnumber": "0001",
+    "name": "Кастрюля",
+    "brand": "Tefal",
+    "weight": 1200,
+    "quantity": 1,
+    "price": 1700,
+    "stock": 1
+  },
+  {
+    "artnumber": "0002",
+    "name": "Сковорода",
+    "brand": "КМЗ",
+    "weight": 1900,
+    "quantity": 1,
+    "price": 950,
+    "stock": 1
+  },
+  {
+    "artnumber": "0003",
+    "name": "Ложка нерж.",
+    "brand": "Tescoma",
+    "weight": 95,
+    "quantity": 12,
+    "price": 1200,
+    "stock": 0
+  },
+  {
+    "artnumber": "0004",
+    "name": "Спички",
+    "brand": "Красный коммунар",
+    "weight": 15,
+    "quantity": 20,
+    "price": 1,
+    "stock": 1
+  },
+  {
+    "artnumber": "0005",
+    "name": "Ложка нерж.",
+    "brand": "Красный коммунар",
+    "weight": 31,
+    "quantity": 4,
+    "price": 1,
+    "stock": 0
+  },
+  {
+    "artnumber": "0006",
+    "name": "Спички",
+    "brand": "Tescoma",
+    "weight": 1,
+    "quantity": 1,
+    "price": 4,
+    "stock": 0
+  },
+  {
+    "artnumber": "0007",
+    "name": "Кастрюля",
+    "brand": "Красный коммунар",
+    "weight": 1,
+    "quantity": 4,
+    "price": 4,
+    "stock": 0
+  },
+  {
+    "artnumber": "0008",
+    "name": "Спички",
+    "brand": "Tefal",
+    "weight": 46,
+    "quantity": 4,
+    "price": 4,
+    "stock": 1
+  },
+  {
+    "artnumber": "0009",
+    "name": "Сковорода",
+    "brand": "Красный коммунар",
+    "weight": 16,
+    "quantity": 2,
+    "price": 3,
+    "stock": 0
+  },
+  {
+    "artnumber": "0010",
+    "name": "Сковорода",
+    "brand": "КМЗ",
+    "weight": 16,
+    "quantity": 2,
+    "price": 4,
+    "stock": 1
+  },
+  {
+    "artnumber": "0011",
+    "name": "Ложка нерж.",
+    "brand": "Tescoma",
+    "weight": 16,
+    "quantity": 2,
+    "price": 4,
+    "stock": 0
+  },
+  {
+    "artnumber": "0012",
+    "name": "Кастрюля",
+    "brand": "КМЗ",
+    "weight": 16,
+    "quantity": 2,
+    "price": 1,
+    "stock": 1
+  },
+  {
+    "artnumber": "0013",
+    "name": "Спички",
+    "brand": "Tescoma",
+    "weight": 46,
+    "quantity": 1,
+    "price": 4,
+    "stock": 0
+  },
+  {
+    "artnumber": "0014",
+    "name": "Кастрюля",
+    "brand": "Tefal",
+    "weight": 16,
+    "quantity": 3,
+    "price": 1,
+    "stock": 1
+  },
+  {
+    "artnumber": "0015",
+    "name": "Ложка нерж.",
+    "brand": "Tescoma",
+    "weight": 46,
+    "quantity": 2,
+    "price": 4,
+    "stock": 1
+  },
+  {
+    "artnumber": "0016",
+    "name": "Сковорода",
+    "brand": "КМЗ",
+    "weight": 16,
+    "quantity": 2,
+    "price": 4,
+    "stock": 1
+  },
+  {
+    "artnumber": "0017",
+    "name": "Спички",
+    "brand": "Tefal",
+    "weight": 1,
+    "quantity": 2,
+    "price": 2,
+    "stock": 1
+  },
+  {
+    "artnumber": "0018",
+    "name": "Спички",
+    "brand": "КМЗ",
+    "weight": 1,
+    "quantity": 3,
+    "price": 4,
+    "stock": 1
+  },
+  {
+    "artnumber": "0019",
+    "name": "Ложка нерж.",
+    "brand": "Tefal",
+    "weight": 31,
+    "quantity": 4,
+    "price": 2,
+    "stock": 0
+  },
+  {
+    "artnumber": "0020",
+    "name": "Спички",
+    "brand": "Tescoma",
+    "weight": 46,
+    "quantity": 3,
+    "price": 3,
+    "stock": 0
+  },
+  {
+    "artnumber": "0021",
+    "name": "Сковорода",
+    "brand": "Tefal",
+    "weight": 1,
+    "quantity": 1,
+    "price": 4,
+    "stock": 0
+  },
+  {
+    "artnumber": "0022",
+    "name": "Ложка нерж.",
+    "brand": "КМЗ",
+    "weight": 16,
+    "quantity": 1,
+    "price": 1,
+    "stock": 0
+  },
+  {
+    "artnumber": "0023",
+    "name": "Ложка нерж.",
+    "brand": "Tescoma",
+    "weight": 1,
+    "quantity": 4,
+    "price": 4,
+    "stock": 0
+  },
+  {
+    "artnumber": "0024",
+    "name": "Сковорода",
+    "brand": "Красный коммунар",
+    "weight": 16,
+    "quantity": 4,
+    "price": 2,
+    "stock": 1
+  }
+]
